@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "I Love Arthur Morgan",
+  "description": "Love Arthur Morgan? See him on every website!",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["Content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
