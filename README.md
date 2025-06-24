@@ -24,3 +24,5 @@ A Chrome extension that brings Arthur Morgan (from Red Dead Redemption II) to th
 ## 📝 Disclaimer
 
 This project is purely for fun and not affiliated with Rockstar Games. All images are used under fair use for parody/tribute purposes.
+
+P.S: This extension is just for pure fun, Using this extension is 99% impossible.
