@@ -14,12 +14,21 @@ A Chrome extension that brings Arthur Morgan (from Red Dead Redemption II) to th
 
 ## 📦 Installation
 
+You can use **Arthur Everywhere** in two ways:
+
+### ➤ Install from Chrome Web Store
+
+Install directly from the Chrome Web Store here:
+[**Arthur Everywhere** on Chrome](https://chromewebstore.google.com/detail/arthur-everywhere/ocflclkgimhgiikdclkkbikekdiaaikf?authuser=0&hl=en-AU)
+
+### ➤ Manual Installation
+
 1. Download or clone this repo
 2. Go to `chrome://extensions`
-3. Enable **Developer Mode**
+3. Enable **Developer Mode** (top right)
 4. Click **“Load unpacked”**
 5. Select the project folder
-6. Visit any website to see arthur in action!
+6. Visit any website to see Arthur in action!
 
 ## 📝 Disclaimer
 
